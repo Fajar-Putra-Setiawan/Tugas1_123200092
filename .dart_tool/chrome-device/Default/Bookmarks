@@ -1,0 +1,150 @@
+{
+   "checksum": "511784dc02289760ed34add3fcbd862e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13322494971820754",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favourites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13248231619504076",
+                  "date_last_used": "0",
+                  "guid": "d4a55c95-70ec-4504-9a10-b2cfe72a5ca0",
+                  "id": "7",
+                  "name": "P-4 ERD.pdf",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "file:///C:/Users/M%20S%20I/Documents/Tugas%20Tugas%20Fajar/Tugas%20Sekolah/Sitstem%20teknologi%20basis%20data/Pertemuan%204/P-4%20ERD.pdf"
+               }, {
+                  "date_added": "13248231619504076",
+                  "date_last_used": "0",
+                  "guid": "aa0c6f88-e03f-4c21-9296-30aef64a01af",
+                  "id": "8",
+                  "name": "Quis_Studi Kasus Pembuatan ERD.pdf",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "file:///C:/Users/M%20S%20I/Documents/Tugas%20Tugas%20Fajar/Tugas%20Sekolah/Sitstem%20teknologi%20basis%20data/Tugas/Quis_Studi%20Kasus%20Pembuatan%20ERD.pdf"
+               } ],
+               "date_added": "13259230379483870",
+               "date_last_used": "0",
+               "date_modified": "13259230379483870",
+               "guid": "969d88d9-f320-4759-9cf7-478ea4b02f7a",
+               "id": "6",
+               "name": "Group 1",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13254406865827527",
+                  "date_last_used": "0",
+                  "guid": "f14bdecb-52d4-4741-bf0f-19aba65b0b8f",
+                  "id": "10",
+                  "name": "lp.wifi.id",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://lp.wifi.id/?NGtrYVpjemUvOXpEYzhjQ3gxcW1zSXgvV2FwRDdoQzZJc0phWHkvWXRxd1dleHkrZ2IySFNoZlU2VjROZGhBdmVTWjM0RS8rdEdLRThxV2lEN29QZ1lhV05BU3lTYXlWeTRLTHl1b3k2OTExTkVGY1NFU2RkK3g4dy9EVUpxNElLbW01cmZDdlZhemVhajUvWTVZTWZhUFZQalliOWw1K01JdU9rVS83blY0eElKWW1sNjVFdjllejBkQmdUZXdMRmtUUGg4bnJaT3N5Q0J0amppeFppQT09"
+               } ],
+               "date_added": "13259230379484071",
+               "date_last_used": "0",
+               "date_modified": "13259230379484071",
+               "guid": "c1813239-1545-4dd9-ab2a-71fdd3996696",
+               "id": "9",
+               "name": "Group 2",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13256883957721218",
+                  "date_last_used": "0",
+                  "guid": "0b11a22e-4e1d-46b0-baec-3bfcbecb2f81",
+                  "id": "12",
+                  "name": "Fajar Putra Setiawan_123200092_D_UTS Matematika Diskret.pdf",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "file:///C:/Users/M%20S%20I/Documents/Tugas%20Tugas%20Fajar/Tugas%20Sekolah/Matematika%20Dikrit/Tugas/Fajar%20Putra%20Setiawan_123200092_D_UTS%20Matematika%20Diskret.pdf"
+               }, {
+                  "date_added": "13256883957721218",
+                  "date_last_used": "0",
+                  "guid": "19eeeec9-4c26-4762-a913-1650bed9c458",
+                  "id": "13",
+                  "name": "Soal_UTS_Matdis_IF_SI_Gasal_2020_2021.pdf",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "file:///C:/Users/M%20S%20I/Documents/Tugas%20Tugas%20Fajar/Tugas%20Sekolah/Matematika%20Dikrit/Soal_UTS_Matdis_IF_SI_Gasal_2020_2021.pdf"
+               }, {
+                  "date_added": "13282737623151692",
+                  "date_last_used": "0",
+                  "guid": "3e8a79fa-16e7-4416-91f1-41bdd90af31b",
+                  "id": "14",
+                  "name": "localhost / 127.0.0.1 / project website / produk | phpMyAdmin 5.0.3",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "http://localhost/phpmyadmin/sql.php?server=1&db=project+website&table=produk&pos=0"
+               }, {
+                  "date_added": "13312989019128205",
+                  "date_last_used": "0",
+                  "guid": "a5136282-5a7f-439f-b716-8c53570c3a68",
+                  "id": "15",
+                  "name": "Meet",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://meet.google.com/wmg-shsf-muy?hs=224"
+               } ],
+               "date_added": "13259230379484130",
+               "date_last_used": "0",
+               "date_modified": "13312989019128205",
+               "guid": "31b24667-85f6-4f43-85fc-457c3931daf6",
+               "id": "11",
+               "name": "Group 3",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13259230379483601",
+            "date_last_used": "0",
+            "date_modified": "13259230379483601",
+            "guid": "83d247f0-dfb1-4a33-b7f9-3fb971f46fde",
+            "id": "5",
+            "name": "Tabs set aside",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13322494971820757",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favourites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13322494971820759",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favourites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCHaGYI2GAQAAKg4QABgBIAAoBjAAOABAABIAIAEqGFRkVDJIc3JaUUhMV0N1R21nLzhFTkE9PaAGDBKoAQgPEqMBChx0bFQvSzBiK0kyM0N6SzQvZ1Joa0ZCSG5GaUU9EiRhNTEzNjI4Mi01YTdmLTQzOWYtYjcxNi04YzUzNTcwYzNhNjgYACAAKAAwuMmT2scwOOq3k9rHMEDqt5PaxzBKHFFXQ0xUT1MxY0dlMjRMR2hXSmRRYWx3NmYyYz1aHyId73l5cHZWNWxoaHNFM29Cc3ptM0ZReTRPRGhYcz1l9CL1GxKoAQgOEqMBChw1SXNYZ01RQ1ZRR0QyZi9BUG03d1lTUnM2NDg9EiQzZThhNzlmYS0xNmU3LTQ0MTYtOTFmMS00MWJkZDkwYWYzMWIYACAAKAAww+WUgdcvOMGs4frqL0DBrOH66i9KHEs2cEJteCtCanAxbi9zbjJWcUJMWkMxU00xOD1aHyId3jNLWnJuWXp0Nk1lbFVwNVVENHVmZGZPcDViQT1ld1inXBKnAQgMEqIBChxHNHJraVJxY3I3TlF1R0JQNldUZWJBNjhoUnc9EiQwYjExYTIyZS00ZTFkLTQ2YjAtYmFlYy0zYmZjYmVjYjJmODEYACAAKAAwm//+ttMvONj03/rqL0DY9N/66i9KHEtXYlQ2ZURPb1pwa0ZwNitKT0o4NWRVek5Udz1aHiIceExodFBHNHJISmIwV0JoOHM1TmlKVk9RdTdjPWUAAAAAEqcBCAoSogEKHE9hcWNkWmVDNjYvLzBiZzNNNGd1Lzl3M013RT0SJGYxNGJkZWNiLTUyZDQtNDc0MS1iZjBmLTE5YWJhNjViMGI4ZhgAIAAoADCb//620y84o/bf+uovQKP23/rqL0ocN244RThja1kzQnZJZElhdzdBS1g1RExvaURzPVoeIhxYS2ZxUGlwUDNYblZSdjFmcUlscWxpcDhnMTg9ZQAAAAASiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkNjhjMzBjZGUtMzVhYi01NzFiLThmY2EtMTYyOWYxZTI1NjdhGAAgACgAMND/v9+wMDi889/66i9AvPPf+uovShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKnAQgGEqIBChxqVUZDeWVqL2dwMzg1b2hvaFZqMjhCRzl3OTg9EiQ5NjlkODhkOS1mMzIwLTQ3NTktOWNmNy00NzhlYTRiMDJmN2EYACAAKAAwm//+ttMvONX13/rqL0DV9d/66i9KHFpsZHRJa3VNaXJpenZIbEFrUFJKS3ZSS2UrQT1aHiIcNXlFcjIxRFJaNVZzTFhWS1U4R1M0eVhwUGswPWUAAAAAEqgBCA0SowEKHHl2dGdxY0tZRGNTeXpsZTBZczFaZm5PaGtqTT0SJDE5ZWVlZWM5LTRjMjYtNDc2Mi1hOTEzLTE2NTBiZWQ5YzQ1OBgAIAAoADCb//620y846PTf+uovQOj03/rqL0ocZmF4K3V4K1ozOEVuQWhwQkVkcm9uOExuQ3g4PVofIh28Qk9LUVRlUFgybE84U00zVDdPNEdMMjAzVWtvPWUAAAAAEqgBCAsSowEKHGRHNnBiZzlNY2ZZb3FJZ2ZBZW00REtvK2Y1OD0SJDMxYjI0NjY3LTg1ZjYtNGY0My04NWZjLTQ1N2MzOTMxZGFmNhgAIAAoADCb//620y84h/Xf+uovQIf13/rqL0ocZU1xamk3dHpOcE5ZTjRIQXhBNUt1TkI0OVJ3PVofIh26MUxIU0l3c2hXTmpLQkRFOU5nOFhxWmJXdGJBPWUAAAAAEqcBCAkSogEKHDA3em9UdDNnMUloZG15eHlsWGpBdkVRMjd1QT0SJGMxODEzMjM5LTE1NDUtNGRkOS1hYjJhLTcxZmRkMzk5NjY5NhgAIAAoADCb//620y84hPbf+uovQIT23/rqL0ocNW9raktXMTk1Ym5hcnducnJ6cWJBbkpHeGtFPVoeIhx1YTFJSFhYSnFLN29SeEpNQkt3ZVhhSHNwcW89ZQAAAAASiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkOWM3Mzk4MzUtMjgwZi01Njg1LTlkMTAtMjYyNTBmODEzNzFhGAAgACgAMND/v9+wMDis89/66i9ArPPf+uovShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ1MjdkNjMyNi1mNzgzLTVhMmUtYjJjZS0wNGY3ZmYzNGVkMTMYACAAKAAw0P+/37AwOJr03/rqL0Ca9N/66i9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEqgBCAgSowEKHDlwU0V1UmZOWjd1UlRjWlNuV3habFNmclN4WT0SJGFhMGM2Zjg4LWUwM2YtNGMyMS05Mjk2LTMwYWVmNjRhMDFhZhgAIAAoADCb//620y845fXf+uovQOX13/rqL0ocY1U2Q1llck9wd3U5dGR3bjFneFp3VDlRZzZNPVofIh2rSnFsUGJyQUw0elk2WEpFUGNlRERxend2bTVFPWUAAAAAEqcBCAcSogEKHGN1TVZlNlR3dHllbEJKTkV3TlN5aDc3dnBoUT0SJGQ0YTU1Yzk1LTcwZWMtNDUwNC05YTEwLWIyY2ZlNzJhNWNhMBgAIAAoADCb//620y84lPbf+uovQJT23/rqL0ocNm8xYlQwUHE1NEZsREQ2cjgxeUZwektlTFp3PVoeIhxWZlRHcHh1SENsTzMybTZBbHBoNVFiaW5yc2c9ZQAAAAASpwEIBRKiAQocVU5Nd0o2WmJkRnlnTWdhQnc0SzNoTU4zbGZrPRIkODNkMjQ3ZjAtZGZiMS00YTMzLWI3ZjktM2ZiOTcxZjQ2ZmRlGAAgACgAMJv//rbTLzi29d/66i9AtvXf+uovShxkNm9ET2xmVHFKZktzL1BTQ1hjbis0bFB2Y2c9Wh4iHHIrc2JGQ3E3QmhPWnl2RzRVMmpGclJyZWVrYz1lAAAAADAAOAA=",
+   "version": 1
+}
